@@ -8,6 +8,7 @@ gemspec
 gem "jekyll-octicons"
 
 gem "github-pages", group: :jekyll_plugins
+gem "jekyll-theme-midnight", "~> 0.1.1"
 
 group :test do
   gem "webmock"
